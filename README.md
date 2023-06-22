@@ -1,10 +1,11 @@
 # Android Pirate
-Android Pirate is a Opensource Repository which contain Android Learning Resources.
+Android Pirate is an Opensource Repository which contains Android Learning Resources.
 
 
 ## Blogs
 - [Official Android Developer Website](https://developer.android.com/)
 - [Official Android Developers Blog](https://android-developers.googleblog.com/)
+- [CodePath Android Cliffnotes](https://guides.codepath.com/android)
 
 ## Communities to Join
 - [r/androiddev](https://www.reddit.com/r/androiddev/)
